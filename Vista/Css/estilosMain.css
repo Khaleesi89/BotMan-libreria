@@ -1,0 +1,50 @@
+#codigo{
+    border: 1px solid #dcdcdc;
+    box-shadow: 0px 0px  10px #243A73;
+} 
+
+.envio, .respuesta{
+    border: 1px solid #dcdcdc;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.botmanExp{
+    font-weight: 500;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.card a{
+    color: white;
+    text-decoration: none;
+}
+
+
+ .nav-link{
+    color: #243A73;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    align-items: center;
+    background-color: #eec4f8;
+    
+} 
+
+
+ .navbar a{
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 3px solid #243A73;
+    border-radius: 50px;
+} 
+
+
+.navbar{
+    background-color: #7C3E66;
+}
+
+h1, h2, h3{
+    font-family:'Bebas Neue', cursive;
+    text-shadow: 1px 2px #999;
+}

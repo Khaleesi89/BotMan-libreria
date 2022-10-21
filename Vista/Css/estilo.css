@@ -1,0 +1,96 @@
+/* éstos son los estilos propios */
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('../Archivos/fondo.jpg');
+    opacity: 90%;   
+}
+
+
+.btn{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    border-color: #A5BECC;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+footer p{
+    font-size: larger;
+    color: black;
+   
+    
+}
+
+.texto{
+    font-family: 'Bebas Neue', cursive;
+    width: 50%;
+    height: 100%;
+    font-size: xx-large;
+    text-align: center;
+    margin: auto;
+    background-color: transparent;
+    padding-top: 50px;
+}
+
+
+footer{
+    width: 100%;
+    background-color: transparent;
+    font-size: larger;
+    color: white;
+}
+
+.container p{
+    
+    font-family: 'Bebas Neue', cursive;
+    line-height:3px
+}
+
+footer p{
+    font-size: larger;
+    font-family: 'Bebas Neue', cursive;
+    color: black;
+    opacity:unset;
+    background-color: transparent;
+    
+}
+
+footer .container{
+    margin-top: 50px;
+}
+
+/* body img{
+    align-items: left;
+    
+    margin-left: 40%;
+} */
+
+/* .nav-link{
+    color: #243A73;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    align-items: center;
+    
+} */
+
+/* .navbar a{
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 3px solid #243A73;
+    border-radius: 50px;
+} */
+
+.container-fluid{
+    background-color: transparent
+}
+
+.lala{
+    background-color: transparent;
+}
+
+.humanoide{
+    background-color: transparent;
+}

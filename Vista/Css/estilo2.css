@@ -1,0 +1,39 @@
+
+
+.nav-link{
+    color: #243A73;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    align-items: center;
+    background-color: #eec4f8;
+    
+}
+
+
+.navbar a{
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 3px solid #243A73;
+    border-radius: 50px;
+}
+
+.navbar{
+    background-color: #7C3E66;
+}
+
+h1, h2, h3{
+    font-family:'Bebas Neue', cursive;
+    text-shadow: 1px 2px #999;
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+p{
+    line-height:25px;
+    margin: 15px;
+}
